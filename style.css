@@ -1,0 +1,8 @@
+.intro{
+  color: blue;
+  padding: 2px;
+  word-spacing: 3px;
+}
+.intro:hover{
+  color:grey;
+}
