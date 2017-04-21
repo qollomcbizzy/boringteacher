@@ -1,8 +1,32 @@
 .intro{
-  color: blue;
-  padding: 2px;
-  word-spacing: 3px;
+  background-color: grey;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
 }
-.intro:hover{
-  color:grey;
+.introtitle{
+  color: white;
+  word-spacing: 3px;
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 2px solid white;
+}
+.introtitle:hover{
+  color:blue;
+}
+.introimage{
+  margin-left: 25%;
+  width: :30%;
+  height: 300px;
+  margin-top: 5%;
+}
+.intrimage:hover{
+
+}
+.intro1{
+  color:black;
+  padding: 2px;
+  font-size: 20px;
+  font-weight: bolder;
 }
