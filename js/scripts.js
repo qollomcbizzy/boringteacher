@@ -1,0 +1,10 @@
+$(document).ready(function(){
+$("p").click(function(){
+  $("p").addClass("highlight");
+  $(document).ready(function(){
+    $("p").click(function(){
+    $("p").removeClass();
+  });
+  });
+});
+});
